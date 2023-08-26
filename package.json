@@ -11,5 +11,10 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/stierney0505/boilerplate-express"
+	},
+	"author": "Sean Tierney"
 }
